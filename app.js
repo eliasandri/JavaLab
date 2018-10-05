@@ -1,2 +1,2 @@
-const greeting = require('./test');
+const greeting = require('./src/greeting');
 console.log(greeting('Totoro'));
